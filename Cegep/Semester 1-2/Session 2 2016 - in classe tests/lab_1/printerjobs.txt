@@ -1,0 +1,6 @@
+0  w4650   print file "hello.txt"
+3  james   print file "test.java"
+2  s243    print file "myTaxes.doc"
+0  t0900   print file "myTaxes.xls"
+4  anna   print file "Boss.doc"
+1  Etienne   print file "Resignation_Letter.docx"

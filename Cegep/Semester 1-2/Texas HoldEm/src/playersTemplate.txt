@@ -1,0 +1,9 @@
+0* John 52 M 350
+1* Christine 23 F 100
+2* William 17 M 500
+3* El-Chico 34 M 350
+4* Gabriel 21 M 768
+5* Bastien 18 M 50
+6* Andy 23 M 100
+7* Steph 23 F 220
+
