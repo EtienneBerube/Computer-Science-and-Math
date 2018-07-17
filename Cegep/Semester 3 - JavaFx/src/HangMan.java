@@ -62,7 +62,7 @@ public class HangMan extends Application {
      
      String word;
      String tempWord = "";
-     String path = "C:\\Users\\Etienne\\Documents\\1. École\\Cégep\\Session 3\\Programming\\Text Bank\\hangman.txt";
+     String path = "C:/Users/Etienne/Documents/1.Ecole/Cégep/Session 3/Programming/Text Bank/hangman.txt";
      int missed;
      
      
@@ -216,6 +216,8 @@ public class HangMan extends Application {
         path = path.replace('\\', '/');
         
         File file = new File(path);
+        //System.out.println("debug: " + file.exists());
+        
         try{
             Scanner input = new Scanner(file);
             
